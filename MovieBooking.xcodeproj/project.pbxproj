@@ -11,6 +11,26 @@
 		D7C7744E29C5BF410031AC7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7744D29C5BF410031AC7D /* ContentView.swift */; };
 		D7C7745029C5BF420031AC7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7C7744F29C5BF420031AC7D /* Assets.xcassets */; };
 		D7C7745329C5BF420031AC7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7C7745229C5BF420031AC7D /* Preview Assets.xcassets */; };
+		D7C7745B29C5BFD30031AC7D /* CircleBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7745A29C5BFD30031AC7D /* CircleBackground.swift */; };
+		D7C7745D29C5C0290031AC7D /* StatusUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7745C29C5C0290031AC7D /* StatusUI.swift */; };
+		D7C7746029C5C0B20031AC7D /* TicketData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7745F29C5C0B20031AC7D /* TicketData.swift */; };
+		D7C7746229C5C1200031AC7D /* PosterData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7746129C5C1200031AC7D /* PosterData.swift */; };
+		D7C7746529C5C1B90031AC7D /* TimeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7746429C5C1B90031AC7D /* TimeButton.swift */; };
+		D7C7746729C5C1E40031AC7D /* DateButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7746629C5C1E40031AC7D /* DateButton.swift */; };
+		D7C7746929C5C20E0031AC7D /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7746829C5C20E0031AC7D /* CircleButton.swift */; };
+		D7C7746B29C5C23D0031AC7D /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7746A29C5C23D0031AC7D /* RoundButton.swift */; };
+		D7C7746D29C5C27A0031AC7D /* utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7746C29C5C27A0031AC7D /* utils.swift */; };
+		D7C7747129C5C4020031AC7D /* CustomSearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7747029C5C4020031AC7D /* CustomSearchBar.swift */; };
+		D7C7747329C5C4280031AC7D /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7747229C5C4280031AC7D /* CustomTabBar.swift */; };
+		D7C7747729C5C45B0031AC7D /* ScrollSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7747629C5C45B0031AC7D /* ScrollSection.swift */; };
+		D7C7747929C5C5530031AC7D /* LargeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7747829C5C5530031AC7D /* LargeButton.swift */; };
+		D7C7747D29C5C5A50031AC7D /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7747C29C5C5A50031AC7D /* Ticket.swift */; };
+		D7C7747F29C5C5D60031AC7D /* Tickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7747E29C5C5D60031AC7D /* Tickets.swift */; };
+		D7C7748129C5C66F0031AC7D /* TabData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7748029C5C66F0031AC7D /* TabData.swift */; };
+		D7C7748329C5C71E0031AC7D /* TicketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7748229C5C71E0031AC7D /* TicketView.swift */; };
+		D7C7748529C5C7940031AC7D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7748429C5C7940031AC7D /* HomeView.swift */; };
+		D7C7748729C5C7BD0031AC7D /* BookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7748629C5C7BD0031AC7D /* BookingView.swift */; };
+		D7C7748929C5C7F20031AC7D /* SeatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C7748829C5C7F20031AC7D /* SeatsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +39,26 @@
 		D7C7744D29C5BF410031AC7D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D7C7744F29C5BF420031AC7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7C7745229C5BF420031AC7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D7C7745A29C5BFD30031AC7D /* CircleBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleBackground.swift; sourceTree = "<group>"; };
+		D7C7745C29C5C0290031AC7D /* StatusUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusUI.swift; sourceTree = "<group>"; };
+		D7C7745F29C5C0B20031AC7D /* TicketData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketData.swift; sourceTree = "<group>"; };
+		D7C7746129C5C1200031AC7D /* PosterData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterData.swift; sourceTree = "<group>"; };
+		D7C7746429C5C1B90031AC7D /* TimeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeButton.swift; sourceTree = "<group>"; };
+		D7C7746629C5C1E40031AC7D /* DateButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateButton.swift; sourceTree = "<group>"; };
+		D7C7746829C5C20E0031AC7D /* CircleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
+		D7C7746A29C5C23D0031AC7D /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		D7C7746C29C5C27A0031AC7D /* utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = utils.swift; sourceTree = "<group>"; };
+		D7C7747029C5C4020031AC7D /* CustomSearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSearchBar.swift; sourceTree = "<group>"; };
+		D7C7747229C5C4280031AC7D /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		D7C7747629C5C45B0031AC7D /* ScrollSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollSection.swift; sourceTree = "<group>"; };
+		D7C7747829C5C5530031AC7D /* LargeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeButton.swift; sourceTree = "<group>"; };
+		D7C7747C29C5C5A50031AC7D /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
+		D7C7747E29C5C5D60031AC7D /* Tickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tickets.swift; sourceTree = "<group>"; };
+		D7C7748029C5C66F0031AC7D /* TabData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabData.swift; sourceTree = "<group>"; };
+		D7C7748229C5C71E0031AC7D /* TicketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketView.swift; sourceTree = "<group>"; };
+		D7C7748429C5C7940031AC7D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		D7C7748629C5C7BD0031AC7D /* BookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingView.swift; sourceTree = "<group>"; };
+		D7C7748829C5C7F20031AC7D /* SeatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +91,16 @@
 		D7C7744A29C5BF410031AC7D /* MovieBooking */ = {
 			isa = PBXGroup;
 			children = (
+				D7C7746E29C5C38F0031AC7D /* Cards */,
+				D7C7745E29C5C08F0031AC7D /* Data */,
+				D7C7746329C5C18B0031AC7D /* Buttons */,
+				D7C7745929C5BF7B0031AC7D /* UI */,
+				D7C7746F29C5C3A60031AC7D /* Views */,
 				D7C7744B29C5BF410031AC7D /* MovieBookingApp.swift */,
 				D7C7744D29C5BF410031AC7D /* ContentView.swift */,
 				D7C7744F29C5BF420031AC7D /* Assets.xcassets */,
 				D7C7745129C5BF420031AC7D /* Preview Content */,
+				D7C7746C29C5C27A0031AC7D /* utils.swift */,
 			);
 			path = MovieBooking;
 			sourceTree = "<group>";
@@ -65,6 +111,60 @@
 				D7C7745229C5BF420031AC7D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D7C7745929C5BF7B0031AC7D /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				D7C7745A29C5BFD30031AC7D /* CircleBackground.swift */,
+				D7C7745C29C5C0290031AC7D /* StatusUI.swift */,
+				D7C7747029C5C4020031AC7D /* CustomSearchBar.swift */,
+				D7C7747229C5C4280031AC7D /* CustomTabBar.swift */,
+				D7C7747629C5C45B0031AC7D /* ScrollSection.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		D7C7745E29C5C08F0031AC7D /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				D7C7745F29C5C0B20031AC7D /* TicketData.swift */,
+				D7C7746129C5C1200031AC7D /* PosterData.swift */,
+				D7C7748029C5C66F0031AC7D /* TabData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		D7C7746329C5C18B0031AC7D /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				D7C7746429C5C1B90031AC7D /* TimeButton.swift */,
+				D7C7746629C5C1E40031AC7D /* DateButton.swift */,
+				D7C7746829C5C20E0031AC7D /* CircleButton.swift */,
+				D7C7746A29C5C23D0031AC7D /* RoundButton.swift */,
+				D7C7747829C5C5530031AC7D /* LargeButton.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		D7C7746E29C5C38F0031AC7D /* Cards */ = {
+			isa = PBXGroup;
+			children = (
+				D7C7747C29C5C5A50031AC7D /* Ticket.swift */,
+				D7C7747E29C5C5D60031AC7D /* Tickets.swift */,
+			);
+			path = Cards;
+			sourceTree = "<group>";
+		};
+		D7C7746F29C5C3A60031AC7D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D7C7748229C5C71E0031AC7D /* TicketView.swift */,
+				D7C7748429C5C7940031AC7D /* HomeView.swift */,
+				D7C7748629C5C7BD0031AC7D /* BookingView.swift */,
+				D7C7748829C5C7F20031AC7D /* SeatsView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +237,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7C7746929C5C20E0031AC7D /* CircleButton.swift in Sources */,
+				D7C7746D29C5C27A0031AC7D /* utils.swift in Sources */,
+				D7C7747129C5C4020031AC7D /* CustomSearchBar.swift in Sources */,
+				D7C7747329C5C4280031AC7D /* CustomTabBar.swift in Sources */,
+				D7C7745B29C5BFD30031AC7D /* CircleBackground.swift in Sources */,
+				D7C7746729C5C1E40031AC7D /* DateButton.swift in Sources */,
+				D7C7747729C5C45B0031AC7D /* ScrollSection.swift in Sources */,
+				D7C7747F29C5C5D60031AC7D /* Tickets.swift in Sources */,
 				D7C7744E29C5BF410031AC7D /* ContentView.swift in Sources */,
+				D7C7748729C5C7BD0031AC7D /* BookingView.swift in Sources */,
+				D7C7746229C5C1200031AC7D /* PosterData.swift in Sources */,
 				D7C7744C29C5BF410031AC7D /* MovieBookingApp.swift in Sources */,
+				D7C7746B29C5C23D0031AC7D /* RoundButton.swift in Sources */,
+				D7C7748329C5C71E0031AC7D /* TicketView.swift in Sources */,
+				D7C7748529C5C7940031AC7D /* HomeView.swift in Sources */,
+				D7C7747D29C5C5A50031AC7D /* Ticket.swift in Sources */,
+				D7C7748129C5C66F0031AC7D /* TabData.swift in Sources */,
+				D7C7748929C5C7F20031AC7D /* SeatsView.swift in Sources */,
+				D7C7747929C5C5530031AC7D /* LargeButton.swift in Sources */,
+				D7C7746529C5C1B90031AC7D /* TimeButton.swift in Sources */,
+				D7C7745D29C5C0290031AC7D /* StatusUI.swift in Sources */,
+				D7C7746029C5C0B20031AC7D /* TicketData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
